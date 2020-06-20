@@ -16,7 +16,7 @@ Discord for ANYONE to join : [Click Here to Join](https://discord.gg/BtZjb5e)
 | Korea | https://pd.KO.a.pvp.net/ |
 
 ## Authentication
-Each API Request requires 2 Headers for authentication. 
+Each API Request requires 2 Headers for authentication.
 `X-Riot-Entitlements-JWT` & `Authentication`
 
 # Table of Contents
@@ -24,6 +24,7 @@ This is here to make your life easier, whenever there is a new addition it gets 
 Please check out [Getting Started](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/GettingStarted.md) for an easy Python script that replicates RSO and provides your X-Riot-Entitlements-JWT & Authentication Token.
 - [Getting Started](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/GettingStarted.md)
 - User API's
+	- [Player ID](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/PlayerID.md)
 	- [User Balance](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/UserBalance.md)
 	- [Competitive History](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/CompetitiveHistory.md)
 	- [Player MMR](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/PlayerMMR.md)
