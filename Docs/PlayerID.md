@@ -11,7 +11,7 @@ Here is how to use `cURL` to get User's ID:
 
 ## Example
 ```http
-GET https://pd.na.a.pvp.net/mmr/v1/players/`PLAYERID`/competitiveupdates
+POST https://pd.na.a.pvp.net/name-service/v1/players
 Content-Type: application/json
 Authorization: Bearer riot_auth_token
 X-Riot-Entitlements-JWT: riot_entitlement_token
