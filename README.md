@@ -6,8 +6,6 @@ Research on Valorant's In-Game API, All of the Information I currently have are 
 - (Listed below are the ones i know. If you know other regions id's please send a message over to me on discord 'RumbleMike#5406')
 - All examples within [Docs](https://github.com/RumbleMike/ValorantAPI/tree/master/Docs) are directed to the NA Region.
 
-Discord for ANYONE to join : [Click Here to Join](https://discord.gg/BtZjb5e)
-
 | Region | URL |
 | - | - |
 | North America | https://pd.NA.a.pvp.net/ |
