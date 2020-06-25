@@ -27,11 +27,12 @@ Please check out [Getting Started](https://github.com/RumbleMike/ValorantAPI/blo
 	- [Competitive History](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/CompetitiveHistory.md)
 	- [Player MMR](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/PlayerMMR.md)
 	- [Player Store](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/PlayerStore.md)
-	- [Player Inventory | Coming Soon]()
+	- [Player Inventory | Coming Soon](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/PlayerInventory.md)
 - Information API's
 	- [Story Contract](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/StoryContract.md)
 	- [ID List](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/IDList.md)
 	- [Client Versions](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/ClientVersions.md)
+	- [**Username From ID**](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/GetUserfromID.md)
 - Match Information APIs
-	- [Match History | Coming Soon]()
+	- [Match History](https://github.com/RumbleMike/ValorantAPI/blob/master/Docs/MatchHistory.md)
 	- [Match Info | Coming Soon]()
