@@ -14,7 +14,7 @@ Params
 
 ## Example
 ```http
-GET https://pd.na.a.pvp.net/match-history/v1/history/ba6d5c29-660e-5736-ba6a-464cbfffa3c6?startIndex=0&endIndex=10
+GET https://pd.na.a.pvp.net/match-history/v1/history/`PLAYERID`?startIndex=0&endIndex=10
 Content-Type: application/json
 Authorization: Bearer riot_auth_token
 X-Riot-Entitlements-JWT: riot_entitlement_token
