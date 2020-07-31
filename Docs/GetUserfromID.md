@@ -18,7 +18,7 @@ Here is how to use `cURL` to get User's Username from ID:
 
 ## Example
 ```http
-GET https://pd.NA.a.pvp.net/name-service/v2/players
+PUT https://pd.NA.a.pvp.net/name-service/v2/players
 Content-Type: application/json
 Authorization: Bearer riot_auth_token
 X-Riot-Entitlements-JWT: riot_entitlement_token
