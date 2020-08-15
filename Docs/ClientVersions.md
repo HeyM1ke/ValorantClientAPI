@@ -1,6 +1,7 @@
 {
-  "latest": "release-01.05-shipping-5-459431",
+  "latest": "release-01.05-shipping-15-460559",
   "oldver": [
+    "release-01.05-shipping-5-459431",
     "release-01.04-shipping-8-456954",
     "release-01.04-shipping-6-454860",
     "release-01.03-shipping-4-450822",
