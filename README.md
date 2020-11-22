@@ -1,4 +1,4 @@
-# REVAMP COMING ON NOV. 20th
+# REVAMP COMING when its ready.
 
 # ValorantAPI
 Research on Valorant's In-Game API, All of the Information I currently have are provided within the [Docs](https://github.com/RumbleMike/ValorantAPI/tree/master/Docs) Folder.
