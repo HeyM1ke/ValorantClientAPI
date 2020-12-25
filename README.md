@@ -14,6 +14,8 @@ Research on Valorant's In-Game API, All of the Information I currently have are 
 | Europe | https://pd.EU.a.pvp.net/ |
 | Asia Pacific | https://pd.AP.a.pvp.net/ |
 | Korea | https://pd.KO.a.pvp.net/ |
+| Brazil | https://pd.BR.a.pvp.net/ |
+| Latin America | https://pd.LATAM.a.pvp.net/ |
 
 ## Authentication
 Each API Request requires 2 Headers for authentication.
