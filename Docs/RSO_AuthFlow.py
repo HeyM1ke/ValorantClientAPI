@@ -9,7 +9,7 @@ async def run(username, password):
     data = {
         'client_id': 'play-valorant-web-prod',
         'nonce': '1',
-        'redirect_uri': 'https://beta.playvalorant.com/opt_in',
+        'redirect_uri': 'https://playvalorant.com/opt_in',
         'response_type': 'token id_token',
     }
     await session.post('https://auth.riotgames.com/api/v1/authorization', json=data)
