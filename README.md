@@ -1,7 +1,7 @@
 # REVAMP COMING when its ready.
 
-# ValorantAPI
-Research on Valorant's In-Game API, All of the Information I currently have are provided within the [Docs](https://github.com/RumbleMike/ValorantAPI/tree/master/Docs) Folder.
+# Valorant Client API
+Research on Valorant's In-Game|In-Client API, All of the Information I currently have are provided within the [Docs](https://github.com/RumbleMike/ValorantAPI/tree/master/Docs) Folder.
 
 ## PSA
 - Please understand that Riot has their servers split up between regions, so each region has their own URL.
