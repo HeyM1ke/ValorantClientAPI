@@ -1,5 +1,7 @@
 # New Endpoints and updated documentation coming 2/1
 
+# Community Developer Discord: https://discord.gg/a9yzrw3KAm
+
 # Valorant Client API
 Research on Valorant's In-Game|In-Client API, All of the Information I currently have are provided within the [Docs](https://github.com/RumbleMike/ValorantAPI/tree/master/Docs) Folder.
 
