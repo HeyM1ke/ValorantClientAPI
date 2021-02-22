@@ -1,4 +1,4 @@
-# New Endpoints and updated documentation coming 2/1
+# New Endpoints and updated documentation are being added over time.
 
 # Community Developer Discord: https://discord.gg/a9yzrw3KAm
 
