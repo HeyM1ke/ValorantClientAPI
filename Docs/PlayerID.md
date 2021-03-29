@@ -1,4 +1,4 @@
-# Player MMR
+# Player ID
 Get Player's ID
 
 ## Template
