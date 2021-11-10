@@ -7,7 +7,7 @@ When making the request you will receive JSON text back, within the json text yo
 | - | - |
 | Valorant Points | 85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741 |
 | Radianite Points | e59aa87c-4cbf-517a-5983-6e81511be9b7 |
-| Unknown | f08d4ae3-939c-4576-ab26-09ce1f23bb37 |
+| Free Agents | f08d4ae3-939c-4576-ab26-09ce1f23bb37 |
 
 ## Example
  - cURL: `https://pd.na.a.pvp.net/store/v1/wallet/'PlayerID'`
