@@ -1,5 +1,5 @@
 # User Balance
-Get User's Valorant Points, Radianite Points, and ___
+Get User's Valorant Points, Radianite Points, and Free Agents
 
 ## Example
 ```http
@@ -21,7 +21,7 @@ X-Riot-Entitlements-JWT: riot_entitlement_token
 | - | - |
 | Valorant Points | 85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741 |
 | Radianite Points | e59aa87c-4cbf-517a-5983-6e81511be9b7 |
-| Unknown (Always has been 0, Probably Future Currency) | f08d4ae3-939c-4576-ab26-09ce1f23bb37 |
+| Free Agents | f08d4ae3-939c-4576-ab26-09ce1f23bb37 |
 
 
 ## Template
